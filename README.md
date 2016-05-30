@@ -5,7 +5,7 @@
 ## 2016-5-30 更新
 
 1. 添加了`<table>`的样式定义，样式定义中添加的属性为`border-collapse: collapse;`和`border-spacing: 0;`
-2. 修改了`<code>`样式，修改`padding`为`padding: 2px 4px;`,背景色为：`background-color: #f9f2f4;`
+2. 修改了`<code>`样式，修改`padding`为`padding: 2px 4px;`,背景色为：`background-color: #f9f2f4;`，修改后样式如下：
 ![-](https://raw.githubusercontent.com/ucfjepl/markdownpad-github/master/attachment/tableandcode.png)
 
 ## License
