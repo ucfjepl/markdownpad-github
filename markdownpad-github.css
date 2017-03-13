@@ -167,7 +167,7 @@ dl dd>:last-child {
 =============================================================================*/
 
 pre, code, tt {
-  font-size: 12px;
+  font-size: 14px;
   font-family: Consolas, "Liberation Mono", Courier, monospace;
   color: #c7254e;
 }
